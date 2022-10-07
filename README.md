@@ -1,3 +1,3 @@
 # swift-vibrant
 
-A description of this package.
+Fork of Swift Vibrant for use with Swift Package Manager (SPM)
